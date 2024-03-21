@@ -1,0 +1,13 @@
+One-to-one-uni Assignment Questions
+
+1-> Find Person By Id										Done
+2-> Find Person by name										Done
+3-> Find Person by phone									Done
+4-> Find PanCard by Id										Done
+5-> Find PanCard by number									Done
+6-> Find PanCard by number and DateofBirth					Done
+7-> Find PaCard by Person Id								Done
+8-> Find PanCard by Person Phone          					Done
+9-> Find Person by PanCard Id								Done
+10-> Find Person by PanCard number		  					Done
+11-> Find Person by PanCard number and date of birth		Done
